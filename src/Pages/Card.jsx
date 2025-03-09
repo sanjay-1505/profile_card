@@ -1,7 +1,7 @@
 import React from 'react'
 import {FaGithub,FaLinkedinIn} from "react-icons/fa6";
 import { MdOutlineWorkHistory } from "react-icons/md";
-import profile from "../assets/logo.jpg";
+import profile from "../assets/image.jpg";
 import { SiGmail } from "react-icons/si";
   
 
